@@ -2,11 +2,10 @@
 - A random maze generator using depth-first search recursive backtracker
 - https://en.wikipedia.org/wiki/Maze_generation_algorithm
 
-## Example
-```
-git clone https://github.com/manieperplex/random-maze-generator.git
-```
-- open `/demo/index.html` in browser
+
+
+## Example in /demo
+![Demo Animation](../assets/demo.gif?raw=true)
 
 ## Install
 ```
