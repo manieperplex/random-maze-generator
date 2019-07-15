@@ -8,10 +8,18 @@
 ## Example
 ![Demo Animation](../assets/demo.gif?raw=true)
 
-## Install
+## Run
+### Browser only
 ```
 git clone https://github.com/manieperplex/random-maze-generator.git
+```
+- open `random-maze-generator/demo/index.html` in browser
+
+### NPM
+```
+git clone https://github.com/manieperplex/random-maze-generator.git
+cd random-maze-generator
 npm install
 npm run dev-server
 ```
-- open browser `http://localhost:8080/`
+- goto `http://localhost:8080/`
