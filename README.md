@@ -4,7 +4,7 @@
 
 
 
-## Example in /demo
+## Example [Demo](https://manieperplex.github.io/random-maze-generator/)
 ![Demo Animation](../assets/demo.gif?raw=true)
 
 ## Install
